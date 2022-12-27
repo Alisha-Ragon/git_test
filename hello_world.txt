@@ -1,1 +1,6 @@
 Adding some text here because i am supposed to. 
+A change to add 
+I'll add another one because it is being silly
+gonna add a third because, why not
+
+Now I'll try committing without a comment to see if it adds the new file
